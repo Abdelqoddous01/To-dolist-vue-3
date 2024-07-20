@@ -1,3 +1,5 @@
+#Simple todo list app based on localStorage using (Vue 3,JSON) , see [more projects](https://github.com/Abdelqoddous01) 
+
 # todo-list
 
 ## Project setup
